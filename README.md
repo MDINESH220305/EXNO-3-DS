@@ -1,4 +1,6 @@
 ## EXNO-3-DS
+# Name: Dinesh M
+# Register:212222043002
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
